@@ -4,6 +4,9 @@ public class GameMaster {
     public static void main(String[] args){
         GameMaster game = new GameMaster();
         game.startGame();
+        //Character c = new Character("名無し", 50);
+        //Hero testHero = new Hero("テスト勇者", -10, "テスト剣");
+        //hero.name = "ミナト";hero.hp = 200;
     }
 
     public void startGame(){

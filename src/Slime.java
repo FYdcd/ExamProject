@@ -9,3 +9,10 @@ public class Slime extends Monster{
         target.setHp(target.getHp()-5);
     }
 }
+/*
+public class KingSlime extends Slime {
+    public KingSlime() {
+        super("キングスライム", 200);
+    }
+}
+ */
